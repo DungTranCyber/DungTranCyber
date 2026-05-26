@@ -1,67 +1,56 @@
 # Dung Tran — Vulnerability Management & Security Automation
 
-I build practical security automation projects for vulnerability management, asset reconciliation, remediation reporting, and risk-based prioritization.
+I use this GitHub as a cybersecurity operations portfolio. The goal is to show how I think through vulnerability management problems, remediation workflows, asset visibility, and security automation.
 
-This GitHub is a portfolio of hands-on projects, not a copy of my resume. The goal is to show how I turn raw security data into cleaner reports, owner-based remediation workflows, and actionable risk decisions.
-
-## Start Here
+## Featured Portfolio Projects
 
 ### 1. Vulnerability Report Automation
-PowerShell project for comparing vulnerability exports, cleaning data, identifying mismatches, and generating Excel reports for remediation review.
+PowerShell-based project for cleaning vulnerability exports, comparing reports, identifying mismatches, and creating easier-to-review remediation reports.
 
-**What it shows:** PowerShell, Excel reporting, vulnerability data cleanup, remediation workflow support.
+**Shows:** PowerShell, Excel reporting, vulnerability data cleanup, remediation support.
 
-**Project link:** Add repo link here
+### 2. Enterprise .NET Remediation Case Study
+A sanitized case study showing how an outdated .NET runtime vulnerability can be tracked from discovery to remediation.
 
----
+**Shows:** vulnerability remediation planning, owner coordination, patch validation, exception handling, SLA tracking.
 
-### 2. Asset Reconciliation / Missing Asset Tracking
-Compares scanner data against inventory sources to identify missing, unmanaged, duplicate, or incorrectly reported assets.
+### 3. Windows Autopilot / Intune Deployment Design
+A documentation-based project showing a model for deploying and managing Windows devices using Autopilot and Intune.
 
-**What it shows:** asset visibility, scanner coverage validation, inventory cleanup, operational security.
+**Shows:** endpoint management, Azure/Intune concepts, device enrollment, configuration profiles, compliance workflow.
 
-**Project link:** Add repo link here
+### 4. Risk-Based Vulnerability Prioritization Model
+A sample prioritization model using CISA KEV, EPSS, CVSS, VPR, internet exposure, asset criticality, business impact, attack path, and SLA age.
 
----
+**Shows:** modern vulnerability management thinking, risk ranking, business-context prioritization.
 
-### 3. Risk-Based Vulnerability Prioritization
-Example workflow for ranking vulnerabilities using CISA KEV, EPSS, CVSS, internet exposure, asset criticality, production impact, and SLA age.
+### 5. Asset Reconciliation / Owner Mapping Workflow
+A project showing how scanner data can be compared against inventory sources to find missing assets, unmanaged systems, duplicate records, and missing owners.
 
-**What it shows:** vulnerability management judgment, risk ranking, business-context prioritization.
+**Shows:** asset visibility, owner mapping, remediation routing, Tenable-style operational reporting.
 
-**Project link:** Add repo link here
+## What This Portfolio Demonstrates
 
----
-
-### 4. Owner Mapping / Remediation Routing
-Maps assets or findings to application owners, support teams, environments, and business units to support ticketing and SLA tracking.
-
-**What it shows:** owner-based reporting, remediation coordination, ITSM-style workflow thinking.
-
-**Project link:** Add repo link here
-
-## What I Focus On
-
-- Finding unmanaged or poorly covered assets
-- Reducing manual vulnerability triage
-- Making scanner exports easier for teams to act on
+- Turning raw vulnerability data into actionable remediation work
 - Prioritizing exploitable business risk instead of only CVSS
-- Turning technical findings into clear remediation actions
-- Supporting SLA tracking, owner mapping, and executive reporting
+- Finding missing, unmanaged, or poorly tagged assets
+- Supporting owner-based remediation and SLA tracking
+- Using automation and documentation to reduce manual triage
+- Connecting technical vulnerabilities to business impact
 
 ## Tools & Concepts
 
+**Security:** Tenable VM, Tenable Exposure Management concepts, vulnerability reporting, risk prioritization  
+**Prioritization:** CISA KEV, EPSS, CVSS, VPR, asset criticality, exposure, attack path, SLA  
 **Automation:** PowerShell, Excel, CSV processing  
-**Security:** Tenable VM concepts, Tenable Exposure Management concepts, vulnerability reporting  
-**Prioritization:** CVSS, EPSS, CISA KEV, VPR, asset criticality, exposure, attack path, SLA  
-**Operations:** asset tagging, owner mapping, ITSM/ticketing workflows, remediation coordination  
-**Infrastructure:** Windows Server, Active Directory, Group Policy, Azure/Intune concepts
+**Infrastructure:** Windows Server, Active Directory, Group Policy, Azure, Intune  
+**Operations:** asset tagging, owner mapping, ITSM/ticketing workflows, remediation coordination
 
 ## Notes
 
-Most projects use sample or sanitized data. No real company data, credentials, hostnames, IPs, or internal vulnerability details are included.
+All projects use sample or sanitized data. No real company data, hostnames, IP addresses, credentials, vulnerability exports, tickets, or internal screenshots are included.
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/dungtran1994 
-- GitHub: https://github.com/DungTranCyber 
+- LinkedIn: https://www.linkedin.com/in/dungtran1994
+- GitHub: https://github.com/DungTranCyber
