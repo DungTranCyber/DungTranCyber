@@ -42,4 +42,4 @@ I am focused on growing deeper in vulnerability management, attack surface manag
 ## Connect
 
 - GitHub: https://github.com/DungTranCyber
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/dungtran1994
