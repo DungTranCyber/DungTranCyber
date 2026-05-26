@@ -6,28 +6,23 @@ I use this GitHub as a cybersecurity operations portfolio. The goal is to show h
 
 ### 1. Vulnerability Report Automation
 PowerShell-based project for cleaning vulnerability exports, comparing reports, identifying mismatches, and creating easier-to-review remediation reports.
-
-**Shows:** PowerShell, Excel reporting, vulnerability data cleanup, remediation support.
+**Skills demonstrated:** PowerShell, Excel reporting, vulnerability data cleanup, remediation support.
 
 ### 2. Enterprise .NET Remediation Case Study
 A sanitized case study showing how an outdated .NET runtime vulnerability can be tracked from discovery to remediation.
-
-**Shows:** vulnerability remediation planning, owner coordination, patch validation, exception handling, SLA tracking.
+**Skills demonstrated:** vulnerability remediation planning, owner coordination, patch validation, exception handling, SLA tracking.
 
 ### 3. Windows Autopilot / Intune Deployment Design
 A documentation-based project showing a model for deploying and managing Windows devices using Autopilot and Intune.
-
-**Shows:** endpoint management, Azure/Intune concepts, device enrollment, configuration profiles, compliance workflow.
+**Skills demonstrated:** endpoint management, Azure/Intune concepts, device enrollment, configuration profiles, compliance workflow.
 
 ### 4. Risk-Based Vulnerability Prioritization Model
 A sample prioritization model using CISA KEV, EPSS, CVSS, VPR, internet exposure, asset criticality, business impact, attack path, and SLA age.
-
-**Shows:** modern vulnerability management thinking, risk ranking, business-context prioritization.
+**Skills demonstrated:** modern vulnerability management thinking, risk ranking, business-context prioritization.
 
 ### 5. Asset Reconciliation / Owner Mapping Workflow
 A project showing how scanner data can be compared against inventory sources to find missing assets, unmanaged systems, duplicate records, and missing owners.
-
-**Shows:** asset visibility, owner mapping, remediation routing, Tenable-style operational reporting.
+**Skills demonstrated:** asset visibility, owner mapping, remediation routing, Tenable-style operational reporting.
 
 ## What This Portfolio Demonstrates
 
