@@ -14,9 +14,11 @@ PowerShell case study showing how outdated .NET components were detected, remedi
 
 **Skills demonstrated:** PowerShell, vulnerability remediation, Intune Proactive Remediations, SCCM/MECM, registry detection, x64/x86 handling, safe install-before-uninstall logic, endpoint logging.
 
-### 3. Windows Autopilot / Intune Deployment Design
-A documentation-based project showing a model for deploying and managing Windows devices using Autopilot and Intune.
-**Skills demonstrated:** endpoint management, Azure/Intune concepts, device enrollment, configuration profiles, compliance workflow.
+### 3. [The No-Error Intune Bug](https://github.com/DungTranCyber/intune-no-error-uninstall-bug)
+
+Case study showing how I troubleshot a silent Intune Win32 app uninstall failure caused by 32-bit PowerShell not reading 64-bit registry uninstall keys.
+
+**Skills demonstrated:** Intune Win32 apps, PowerShell troubleshooting, registry detection, 32-bit vs 64-bit PowerShell, Sysnative, uninstall logic, deployment troubleshooting.
 
 ### 4. Risk-Based Vulnerability Prioritization Model
 A sample prioritization model using CISA KEV, EPSS, CVSS, VPR, internet exposure, asset criticality, business impact, attack path, and SLA age.
