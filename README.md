@@ -10,7 +10,7 @@ PowerShell-based project for cleaning vulnerability exports, comparing reports, 
 
 ### 2. [Enterprise .NET Remediation Case Study](https://github.com/DungTranCyber/enterprise-dotnet-remediation-case-study)
 
-PowerShell case study showing how outdated .NET components were detected, remediated, and validated across Windows endpoints using Intune and SCCM/MECM.
+PowerShell case study showing how outdated .NET components were detected, remediated, and validated across Windows endpoints using Intune Proactive Remediations and SCCM/MECM
 
 **Skills demonstrated:** PowerShell, vulnerability remediation, Intune Proactive Remediations, SCCM/MECM, registry detection, x64/x86 handling, safe install-before-uninstall logic, endpoint logging.
 
