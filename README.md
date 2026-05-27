@@ -8,9 +8,11 @@ I use this GitHub as a cybersecurity operations portfolio. The goal is to show h
 PowerShell-based project for cleaning vulnerability exports, comparing reports, identifying mismatches, and creating easier-to-review remediation reports.
 **Skills demonstrated:** PowerShell, Excel reporting, vulnerability data cleanup, remediation support.
 
-### 2. Enterprise .NET Remediation Case Study
-A sanitized case study showing how an outdated .NET runtime vulnerability can be tracked from discovery to remediation.
-**Skills demonstrated:** vulnerability remediation planning, owner coordination, patch validation, exception handling, SLA tracking.
+### 2. [Enterprise .NET Remediation Case Study](https://github.com/DungTranCyber/enterprise-dotnet-remediation-case-study)
+
+PowerShell case study showing how outdated .NET components were detected, remediated, and validated across Windows endpoints using Intune and SCCM/MECM.
+
+**Skills demonstrated:** PowerShell, vulnerability remediation, Intune Proactive Remediations, SCCM/MECM, registry detection, x64/x86 handling, safe install-before-uninstall logic, endpoint logging.
 
 ### 3. Windows Autopilot / Intune Deployment Design
 A documentation-based project showing a model for deploying and managing Windows devices using Autopilot and Intune.
