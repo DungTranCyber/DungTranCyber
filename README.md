@@ -2,6 +2,8 @@
 
 I use this GitHub as a cybersecurity operations portfolio. The goal is to show how I think through vulnerability management problems, remediation workflows, asset visibility, and security automation.
 
+> **Portfolio status:** This portfolio is still being updated. Projects with blue clickable titles have full repo write-ups available now. Other listed projects are planned or still being cleaned up with sanitized notes, scripts, and documentation.
+
 ## Featured Portfolio Projects
 
 ### 1. Vulnerability Report Automation
