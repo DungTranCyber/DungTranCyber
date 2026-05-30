@@ -6,11 +6,20 @@ I use this GitHub as a cybersecurity operations portfolio. The goal is to show h
 
 ## Featured Portfolio Projects
 
-### 1. Vulnerability Report Automation
+### 1. [Tenable ASM Exposure Report Automation](https://github.com/DungTranCyber/tenable-asm-exposure-report-automation)
+
+PowerShell project that turns a raw Tenable Attack Surface Management-style export into a multi-tab Excel workbook with normalized findings, SLA tracking, executive dashboard charts, priority distribution, and remediation-ready views.
+
+**What it shows:** raw ASM export → normalized/enriched data → SLA tracking → executive dashboard.
+
+**Skills demonstrated:** PowerShell, ImportExcel, attack surface management, vulnerability prioritization, SLA tracking, Excel dashboard automation, risk reporting, owner/remediation workflow.
+
+### 2. Vulnerability Report Automation
 PowerShell-based project for cleaning vulnerability exports, comparing reports, identifying mismatches, and creating easier-to-review remediation reports.
+
 **Skills demonstrated:** PowerShell, Excel reporting, vulnerability data cleanup, remediation support.
 
-### 2. [Enterprise .NET Remediation Case Study](https://github.com/DungTranCyber/enterprise-dotnet-remediation-case-study)
+### 3. [Enterprise .NET Remediation Case Study](https://github.com/DungTranCyber/enterprise-dotnet-remediation-case-study)
 
 PowerShell case study showing how outdated .NET components were detected, remediated, and validated across Windows endpoints using Intune Proactive Remediations and SCCM/MECM
 
